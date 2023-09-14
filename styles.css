@@ -20,4 +20,9 @@ h4 {
 img {
     border: 5px solid #563217;
     float: right;
+    margin-right: 100px;
+}
+
+#cookies {
+    margin-right: 500px;
 }
